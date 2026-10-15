@@ -1,0 +1,6 @@
+{
+  "name": "Book Heavean — Online Bookstore Management System",
+  "description": "Full-stack bookstore management system with book catalog CRUD, live search, cart, multi-channel payment gateway, customer directory, and order processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
